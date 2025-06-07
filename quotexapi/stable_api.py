@@ -215,7 +215,7 @@ class Quotex:
 
     async def connect(self):
         self.api = QuotexAPI(
-            "qxbroker.com",
+            "market-qx.pro",
             self.email,
             self.password,
             self.lang,

@@ -7,7 +7,7 @@ import logging
 logger = logging.getLogger(__name__)
 
 
-async def get_pin(email_address, email_pass, quotex_email="noreply@qxbroker.com", attempts=5):
+async def get_pin(email_address, email_pass, quotex_email="noreply@market-qx.pro", attempts=5):
     pin_code = None
     try:
         mail = imaplib.IMAP4_SSL("imap.gmail.com")

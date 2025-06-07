@@ -1,0 +1,9 @@
+telethon
+niquests
+beautifulsoup4
+numpy
+websocket-client
+pyfiglet
+certifi
+playwright
+playwright-stealth

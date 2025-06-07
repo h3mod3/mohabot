@@ -12,7 +12,7 @@ class Login(Browser):
     url = ""
     cookies = None
     ssid = None
-    base_url = 'qxbroker.com'
+    base_url = 'market-qx.pro'
     https_base_url = f'https://{base_url}'
 
     def __init__(self, api, *args, **kwargs):

@@ -7,4 +7,3 @@ pyfiglet
 certifi
 playwright
 playwright-stealth
-quotexapi @ git+https://github.com/h3mod3/quotexapi.git
